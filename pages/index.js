@@ -23,11 +23,11 @@ export default function Home() {
                <h1 className={css.titulo}>Links que vão te ajudar!</h1>
            </div>
            <div className={css.desalinhado}>
-           <a href="https://www.behance.net/paidodesign" target="_blank" className={css.animatedbutton1}>
-               <span className={css.span}></span>
-               <span className={css.span}></span>
-               <span className={css.span}></span>
-               <span className={css.span}></span>
+           <a href="https://www.behance.net/paidodesign" target="_blank" className={css.animatedbutton1} rel="noreferrer">
+               <span className={css.span}/>
+               <span className={css.span}/>
+               <span className={css.span}/>
+               <span className={css.span}/>
                <div className={css.align}>
                    <div className={css.icon}>
                        <Image src="/behance.png" width={33} height={33}/>
@@ -37,11 +37,11 @@ export default function Home() {
                    </div>
                </div>
            </a>
-           <a target="_blank" href="https://api.whatsapp.com/send?phone=5541997356552&text=Ol%C3%A1!%20Vim%20atrav%C3%A9s%20do%20Instagram%20e%20gostaria%20de%20um%20or%C3%A7amento!" className={css.animatedbutton1}>
-               <span className={css.span}></span>
-               <span className={css.span}></span>
-               <span className={css.span}></span>
-               <span className={css.span}></span>
+           <a target="_blank" href="https://api.whatsapp.com/send?phone=5541997356552&text=Ol%C3%A1!%20Vim%20atrav%C3%A9s%20do%20Instagram%20e%20gostaria%20de%20um%20or%C3%A7amento!" className={css.animatedbutton1} rel="noreferrer">
+               <span className={css.span}/>
+               <span className={css.span}/>
+               <span className={css.span}/>
+               <span className={css.span}/>
                <div className={css.align}>
                    <div className={css.icon}>
                        <Image src="/whats.png" width={33} height={33}/>
@@ -51,11 +51,11 @@ export default function Home() {
                    </div>
                </div>
            </a>
-           <a target="_blank" href="https://www.instagram.com/nathans.designer/" className={css.animatedbutton1}>
-               <span className={css.span}></span>
-               <span className={css.span}></span>
-               <span className={css.span}></span>
-               <span className={css.span}></span>
+           <a target="_blank" href="https://www.instagram.com/nathans.designer/" className={css.animatedbutton1} rel="noreferrer">
+               <span className={css.span}/>
+               <span className={css.span}/>
+               <span className={css.span}/>
+               <span className={css.span}/>
                <div className={css.align}>
                    <div className={css.icon}>
                        <Image src="/insta.png" width={33} height={33}/>
